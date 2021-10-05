@@ -14,6 +14,13 @@ Questions:
 Start a pull request or you can e-mail or directly talk to me in Discord!
 
 Ideas:
-Tell me in my Discord server or just e-mail me! I would love to hear your ideas! Also, just a side note, please do not tgive me troll ideas and keep things clean!
+Tell me in my Discord server or just e-mail me! I would love to hear your ideas! Also, just a side note, please do not give me troll ideas and keep things clean!
+______________________________________________________________________________________________________________________________________________________________________
+About the code itself
+The CSS footer in the website code is from CodePen and I have not made it. It is there so that I can use it later and so can you! I want to make the website animated and clean, and most importantly, minimalist. 
 
+The annotations are not great, so I will add more later and will make a release just for the annotations so that the code will be easier to read and undserstand.
 
+The code is also formatted very well by using the Visual Studio Code's formatting tool.
+
+More updates will be coming soon!
