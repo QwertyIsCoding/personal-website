@@ -1,3 +1,5 @@
+https://forthebadge.com/images/badges/gluten-free.svg
+
 ## This is the source code for my website!
 Link - ``` https://qwerty-dev.netlify.app```
 >About the code itself
