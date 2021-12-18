@@ -1,4 +1,4 @@
-https://forthebadge.com/images/badges/gluten-free.svg
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
 ## This is the source code for my website!
 Link - ``` https://qwerty-dev.netlify.app```
